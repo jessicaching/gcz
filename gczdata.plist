@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>要闻</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>政治</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>美部长说中企害怕跟美国做生意 李克强：你举个例子</string>
+				<key>image</key>
+				<string>zz1.jpg</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>zz2.jpg</string>
+				<key>title</key>
+				<string>朱维群：达赖若真想改善关系 至少应做3件事</string>
+				<key>content</key>
+				<string>全国政协民族和宗教委员会主任朱维群17日接受人民网访问，解读国新办发布的西藏白皮书。他在访谈中提及，达赖若真想和中央政府改善关系，至少应做3件事，停止煽动自焚、停止国际窜访、停止炒作所谓转世问题。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>国际</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>日本70年后赴台寻原子弹受害者 仅1人申请</string>
+				<key>image</key>
+				<string>gj1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>gj2</string>
+				<key>title</key>
+				<string>外媒炒中国启用“网络大炮”</string>
+				<key>content</key>
+				<string>新加坡《联合早报》网站12日报道称，中国启用了一种被外界称为“大炮”(Great Cannon)的新式网络武器，将网络封锁扩大到境外。不过，中国专家认为，所谓“大炮”技术源于美国。外媒报道并无令人信服的证据证明攻击系中国所为，很有可能是借机炒作。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>军事</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>财经</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>科技</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>亚投行</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>资料·研究</string>
+		<key>scrollimages</key>
+		<array>
+			<dict>
+				<key>id</key>
+				<string>1</string>
+				<key>title</key>
+				<string>副校长：不愿到內地交流 勿來港大</string>
+				<key>image</key>
+				<string>newsimage1</string>
+			</dict>
+			<dict>
+				<key>id</key>
+				<string>2</string>
+				<key>title</key>
+				<string>习近平20日访“巴铁” 巴方盼460亿美元大单</string>
+				<key>image</key>
+				<string>newsimage2</string>
+			</dict>
+		</array>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>2</integer>
+				<key>id</key>
+				<string>7</string>
+				<key>image</key>
+				<string>newslistimage5</string>
+				<key>title</key>
+				<string>邓紫琪《喜欢你》进驻广场舞 动作整齐节奏感堪称完美</string>
+				<key>content</key>
+				<string>广场舞音乐在经历了60/70/80后的凤凰传奇、筷子兄弟后，终于演进到了90后歌手身上。4月17日夜，资料显示地点为广州的@我们爱讲俏皮话 发布视频，一群大妈跳起了邓紫琪（1991年出生）翻唱的粤语歌曲《喜欢你》。大妈们为此曲编排的动作与歌曲配合十分完美，而且动作十分整齐，显然经过精心排练，以至很多网友都惊呼：节奏抓的准准的。</string>
+				<key>url</key>
+				<string>http://v.ifeng.com/include/exterior.swf?AutoPlay=false&amp;guid=045b1386-91a8-49cb-bb9b-8ac649844e9b</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4</string>
+				<key>image</key>
+				<string>newslistimage2</string>
+				<key>title</key>
+				<string>英媒：中国经济放缓成头条，但改革才是大新闻</string>
+				<key>content</key>
+				<string>4月18日出刊的英国《经济学人》杂志发表评论文章，以“寂静革命”为题评价最新公布的中国宏观经济数据。其导语称，中国经济放缓成头条，但改革才是大新闻。文章指出，由于中国经济的规模远大于几年前，今年预期7%的增长比2007年14%的增长对全球经济的贡献更大。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>1</integer>
+				<key>id</key>
+				<string>5</string>
+				<key>image</key>
+				<array>
+					<string>imagelist</string>
+				</array>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6</string>
+				<key>image</key>
+				<string>newslistimage1</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>1</string>
+				<key>image</key>
+				<string>newslistimage</string>
+				<key>title</key>
+				<string>中国不再砸钱 澳大利亚严阵以待</string>
+				<key>content</key>
+				<string>英国《金融时报》16日刊登报道，题为“铁矿石价格下跌，澳大利亚严阵以待中国经济放缓”（作者Jamie Smyth）。</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
